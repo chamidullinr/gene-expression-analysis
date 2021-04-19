@@ -75,4 +75,4 @@ Visualization packages:
 
 
 ## Authors
-**Rail Chamidullin** - [chamidullinr@gmail.com](chamidullinr@gmail.com)  - [Github account](https://github.com/chamidullinr)
+**Rail Chamidullin** - chamidullinr@gmail.com  - [Github account](https://github.com/chamidullinr)
