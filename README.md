@@ -1,7 +1,7 @@
 # Gene Expression Analysis
 Assignment on learning from Gene Expression Data and applying Statistical Analysis methods.
 
-## Intorduction
+## Introduction
 Statistical Analysis is an exiting field that can be considered as a cousin of Machine Learning.
 While Machine Learning is often placed under Computer Science, Statistical Analysis is closer to Mathematics.
 Both approaches focus on finding interpretation and relationships in the data 
@@ -10,7 +10,7 @@ There is not a clear line that separates domains of Statistical Analysis and Mac
 and there is a lot of algorithms that overlap in both approaches.
 
 Usual practice in Machine Learning is to pre-process the data (i.e. apply cleaning, features scaling, etc.),
-then employ Machine Learning algorithms (for tasks such as classification, regression, clustering, etc.)
+then employ Machine Learning algorithms (for tasks such as classification, regression, clustering, etc.),
 and in the end evaluate performance of applied algorithms on the given data.
 In other words, in Machine Learning one first applies algorithms and then reasons about the meaning of the results - 
 whether the applied algorithm was appropriate for given problem and what can be improved.
@@ -40,8 +40,8 @@ The individuals are split into several well-defined groups such as:
 * chronically diseased patients and
 * recovered patients.
   
-The goal is to learn from the gene expression data and understand relationships among activity of the individual genes and
-the health condition of an individual.
+The goal is to learn from the gene expression data and understand relationships 
+among activity of the individual genes, and the health condition of an individual.
 
 ## Solution
 The completed task is located in the Jupyter Notebook **gene_expression.ipynb**.
